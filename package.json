@@ -1,20 +1,20 @@
 {
-  "name": "leadconduit-integration-json",
+  "name": "leadconduit-integration-get",
   "version": "1.0.1",
-  "description": "LeadConduit JSON integration",
+  "description": "LeadConduit GET integration",
   "main": "index.js",
   "scripts": {
     "test": "mocha"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/activeprospect/leadconduit-integration-json.git"
+    "url": "git+https://github.com/activeprospect/leadconduit-integration-get.git"
   },
   "license": "CC-BY-NC-ND-4.0",
   "bugs": {
-    "url": "https://github.com/activeprospect/leadconduit-integration-json/issues"
+    "url": "https://github.com/activeprospect/leadconduit-integration-get/issues"
   },
-  "homepage": "https://github.com/activeprospect/leadconduit-integration-json#readme",
+  "homepage": "https://github.com/activeprospect/leadconduit-integration-get#readme",
   "dependencies": {
     "leadconduit-custom": "^2.16.0"
   },
