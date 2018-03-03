@@ -2,7 +2,7 @@
 All notable changes to this project will be documented in this file.
 This project adheres to [Semantic Versioning](http://semver.org)
 
-## [1.0.3] - 2018-03-03
+## [1.0.4] - 2018-03-03
 ### Fixed
 - Tweak metadata description
 
