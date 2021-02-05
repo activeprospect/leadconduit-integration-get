@@ -5,4 +5,4 @@ This module is for making GET recipients on the [LeadConduit](http://activeprosp
 Please see the
 [license agreement](http://creativecommons.org/licenses/by-nc-nd/4.0/).
 
-[![Build Status](https://travis-ci.org/activeprospect/leadconduit-integration-get.svg?branch=master)](https://travis-ci.org/activeprospect/leadconduit-integration-get)
+[![Build Status](https://github.com/activeprospect/leadconduit-integration-get/workflows/Node.js%20CI/badge.svg)](https://github.com/activeprospect/leadconduit-integration-get/actions)
