@@ -1,6 +1,6 @@
 {
   "name": "leadconduit-get",
-  "version": "1.0.6",
+  "version": "1.0.7",
   "description": "LeadConduit GET integration",
   "main": "index.js",
   "scripts": {
